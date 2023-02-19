@@ -132,7 +132,7 @@ def display():
     return
 #window
 tkWindow = Tk()  
-tkWindow.geometry('1024x500')  
+tkWindow.geometry('350x530')  
 tkWindow.title('Welcome')
 photo = PhotoImage(file = "ssuet1.png")
 
